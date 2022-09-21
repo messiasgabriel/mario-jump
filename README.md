@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://messiasgabriel.github.io/checkout-page/"  target="_blank">
+    <a href="https://messiasgabriel.github.io/mario-jump/"  target="_blank">
       Demo
     </a>
   </h3>
@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/mario-jump/main/img/screenshot.png)
 
 Mario Jump game to learn and improve my JavaScrip skills.
 
